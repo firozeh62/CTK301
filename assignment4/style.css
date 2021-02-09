@@ -1,0 +1,75 @@
+/* this is my style sheet */
+
+.customtext {
+font-family: sans-serif;font-style: normal;
+color: #ffffff;
+font-weight: normal;
+font-size: 14px;
+}
+body {
+background-color: #e6fffa;
+background-image: url(background.jpg);
+background-repeat: repeat;
+background-position: center center;
+}
+h1 {
+  color: #ffad33;
+ ;
+}
+h2 {
+  color: #ffad33;
+ ;
+}
+h3 {
+  color: #ffad33;
+ ;
+}
+h4 {
+  color: #ffad33;
+;
+}
+h5 {
+  color: #ffad33;
+;
+}
+
+a {
+ color: #ff0000;
+
+}
+a:visited {
+ color: #00ff00;
+}
+a:hover {
+ color: #EEF20C;
+ text-decoration: underline;
+}
+.spanstyle { color:#0000ff;
+}
+#divexample { color:#000000;
+ background-color: #B0B266;
+}
+#specialid {
+  color:#000000;
+ background-color: #F9C2C2;
+}
+.specialp {
+ color: #ff9900;
+ font-style: italic;
+ font-weight: normal;
+}
+.textcenter {
+text-align: center;
+}
+.textjustify {
+text-align: justify;
+}
+.imgbox {
+border: 10px solid #000000;
+padding: 10px 10px 10px 10px;
+margin: 20px 20px 20px 20px;
+background-color: #ffffff;
+}
+footer{color: #ffffff;
+background-color: #000000;
+  }
